@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zhao-yiqun
 - 👀 I’m interested in stand-up commedy and tennis
 - 🌱 I’m currently learning Computer Science in Shanghai University
-- 💞️ I’m looking to collaborate on everyone who have great enthusiasm on statistical machine learning and its applications on computer vision
+- 💞️ I’m looking to collaborate on statistical machine learning and its applications on computer vision
 - 📫 How to reach me goatzyq@163.com
 
 <!---
