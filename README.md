@@ -22,9 +22,3 @@ Here are some ideas to get you started:
     [Code](https://github.com/SvipRepetitionCounting/TransRAC) | [Paper](https://arxiv.org/abs/2204.01018) | [Oral Presentation](https://www.youtube.com/watch?v=SFpUS9mHHpk)
 
 - 📫 How to reach me goatzyq@163.com
-  
-  
-  
-  <---yiqun/zhao-yiqun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-  You can click the Preview link to take a look at your changes.
-  --->
