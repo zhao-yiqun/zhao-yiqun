@@ -1,6 +1,6 @@
 👋 Hi, I’m @zhao-yiqun
 
-- 👀 I’m interested in stand-up commedy and tennis
+- 👀 I’m interested in F1, tennis and fitness.
 
 - 🌱 I’m currently learning Computer Science in ShanghaiTech University
 
