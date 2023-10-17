@@ -9,6 +9,7 @@
   🌱 **Publications:**
 
   * RoomDesigner: Encoding Anchor-latents for Style-consistent and Shape-compatible Indoor Scene Generation `3DV 2024`
+
     [project](https://github.com/zhao-yiqun/RoomDesigner) | [Paper](arxiv.org/pdf/2310.10027.pdf)
   
   * TransRAC: Encoding Multi-scale Temporal Correlation with Transformers for Repetitive Action Counting `CVPR 2022`   
