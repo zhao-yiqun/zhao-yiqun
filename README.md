@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Computer Science in ShanghaiTech University
 
-- 💞️ I’m working on 3D Vision for some incremental works (qwq)
+- 💞️ I’m working on 3D Vision
   
   🌱 **Publications:**
 
